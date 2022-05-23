@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.moto.settings;
+package in.ghostreborn.hellcustomization;
 
 import android.os.Bundle;
 import android.preference.PreferenceActivity;
