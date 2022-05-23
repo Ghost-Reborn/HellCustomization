@@ -7,11 +7,13 @@
     <application
         android:allowBackup="true"
         android:label="@string/app_name"
-        android:persistent="true">
+        android:persistent="true"
+        android:icon="@drawable/method_draw_image">
 
         <activity
             android:name=".HellCustomizationPreferenceActivity"
             android:label="@string/app_name"
+            android:icon="@drawable/method_draw_image"
             android:theme="@style/HellCustomization">
             <intent-filter>
                 <action android:name="com.android.settings.action.EXTRA_SETTINGS" />
